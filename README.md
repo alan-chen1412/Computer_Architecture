@@ -1,2 +1,1 @@
-# Computer_Architecture
-## NCKU Computer Architecture
+# NCKU Computer_Architecture
